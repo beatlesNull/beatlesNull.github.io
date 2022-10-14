@@ -4,8 +4,8 @@
 baseurl:
 url:
 date_format: "ordinal"
-title: 码志
-subtitle: "码志"
+title: 甲壳虫的blog
+subtitle: "甲壳虫的blog"
 description: "beatlesNull的个人博客"
 keywords:
 timezone: Asia/Shanghai
@@ -139,11 +139,11 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: beatles
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 0b21206346e3d3c39e84
+        client_secret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: mzlogin
