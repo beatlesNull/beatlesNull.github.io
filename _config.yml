@@ -139,26 +139,26 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: beatles
-    repo: blog-comments
+    owner: beatlesNull
+    repo: beatlesNull/beatlesNull.github.io
     oauth:
         client_id: 0b21206346e3d3c39e84
         client_secret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: beatlesNull
+    repo: beatlesNull/beatlesNull.github.io
+    clientID: 0b21206346e3d3c39e84
+    clientSecret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: beatlesNull/beatlesNull.github.io
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: mzlogin/blog-comments
+    repo: beatlesNull/beatlesNull.github.io
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
+    repo: beatlesNull/beatlesNull.github.io
     repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
     category: Announcements
     category-id: DIC_kwDOBY0E7c4CRtg9
