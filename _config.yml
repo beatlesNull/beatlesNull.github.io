@@ -131,37 +131,37 @@ collections:
 #      Comments    #
 # ---------------- #
 # support provider: disqus, gitment, gitalk, utterances, beaudar, giscus
-comments_provider: giscus
+comments_provider: utterances
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
-disqus:
-    username: 
+#disqus:
+#    username:
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: beatlesNull
-    repo: beatlesNull/beatlesNull.github.io
-    oauth:
-        client_id: 0b21206346e3d3c39e84
-        client_secret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
+#gitment:
+#    owner: beatlesNull
+#    repo: beatlesNull/beatlesNull.github.io
+#    oauth:
+#        client_id: 0b21206346e3d3c39e84
+#        client_secret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: beatlesNull
-    repo: beatlesNull/beatlesNull.github.io
-    clientID: 0b21206346e3d3c39e84
-    clientSecret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
+#gitalk:
+#    owner: beatlesNull
+#    repo: beatlesNull/beatlesNull.github.io
+#    clientID: 0b21206346e3d3c39e84
+#    clientSecret: 62ff8231e9d684ae0bd0569d3679d6bb558aeefd
 # utterances 配置参考：https://utteranc.es/
 utterances:
     repo: beatlesNull/beatlesNull.github.io
 # beaudar 配置参考：https://beaudar.lipk.org/
-beaudar:
-    repo: beatlesNull/beatlesNull.github.io
+#beaudar:
+#    repo: beatlesNull/beatlesNull.github.io
 # giscus 配置参考：https://giscus.app/zh-CN
-giscus:
-    repo: beatlesNull/beatlesNull.github.io
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
-    category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+#giscus:
+#    repo: beatlesNull/beatlesNull.github.io
+#    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+#    category: Announcements
+#    category-id: DIC_kwDOBY0E7c4CRtg9
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
